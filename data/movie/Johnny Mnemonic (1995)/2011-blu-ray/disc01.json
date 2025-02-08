@@ -1,0 +1,255 @@
+{
+  "Index": 1,
+  "Slug": "blu-ray",
+  "Name": "Blu-ray",
+  "Format": "Blu-Ray",
+  "ContentHash": "9803431F9BC32BE835D3F65DD0F41CA3",
+  "Titles": [
+    {
+      "Index": 0,
+      "Comment": "Johnny Mnemonic_t00.mkv",
+      "SourceFile": "00001.mpls",
+      "SegmentMap": "4",
+      "Duration": "1:36:42",
+      "Size": 20989249536,
+      "DisplaySize": "19.5 GB",
+      "Item": {
+        "Title": "Johnny Mnemonic",
+        "Type": "MainMovie",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4 AVC High@L4.1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "DTS-HD Master Audio",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "DTS",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 3,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 4,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 5,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        },
+        {
+          "Index": 6,
+          "Name": "HDMV PGS Subtitles",
+          "Type": "Subtitles",
+          "LanguageCode": "spa",
+          "Language": "Spanish"
+        }
+      ]
+    },
+    {
+      "Index": 1,
+      "Comment": "Johnny Mnemonic_t01.mkv",
+      "SourceFile": "00095.mpls",
+      "SegmentMap": "12,3",
+      "Duration": "0:00:53",
+      "Size": 152875008,
+      "DisplaySize": "145.7 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg2",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Linear PCM",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 2,
+      "Comment": "Johnny Mnemonic_t02.mkv",
+      "SourceFile": "00096.mpls",
+      "SegmentMap": "11,3",
+      "Duration": "0:00:51",
+      "Size": 152180736,
+      "DisplaySize": "145.1 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg2",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Linear PCM",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 3,
+      "Comment": "Johnny Mnemonic_t03.mkv",
+      "SourceFile": "00002.m2ts",
+      "SegmentMap": "2",
+      "Duration": "0:00:16",
+      "Size": 49084416,
+      "DisplaySize": "46.8 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4 AVC High@L4.1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "DTS-HD Master Audio",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        },
+        {
+          "Index": 2,
+          "Name": "DTS",
+          "Type": "Audio",
+          "AudioType": "Surround 5.1",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 4,
+      "Comment": "Johnny Mnemonic_t04.mkv",
+      "SourceFile": "00003.m2ts",
+      "SegmentMap": "3",
+      "Duration": "0:00:50",
+      "Size": 151824384,
+      "DisplaySize": "144.7 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg2",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Linear PCM",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    },
+    {
+      "Index": 5,
+      "Comment": "Johnny Mnemonic_t05.mkv",
+      "SourceFile": "00010.m2ts",
+      "SegmentMap": "10",
+      "Duration": "0:00:30",
+      "Size": 86323200,
+      "DisplaySize": "82.3 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg4 AVC High@L4.1",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 6,
+      "Comment": "Johnny Mnemonic_t06.mkv",
+      "SourceFile": "00013.m2ts",
+      "SegmentMap": "13",
+      "Duration": "0:00:10",
+      "Size": 40151040,
+      "DisplaySize": "38.2 MB",
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg2",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        }
+      ]
+    },
+    {
+      "Index": 7,
+      "Comment": "Johnny Mnemonic_t07.mkv",
+      "SourceFile": "00014.m2ts",
+      "SegmentMap": "14",
+      "Duration": "0:02:19",
+      "Size": 355104768,
+      "DisplaySize": "338.6 MB",
+      "Item": {
+        "Title": "Johnny Mnemonic - Trailer",
+        "Type": "Trailer",
+        "Chapters": []
+      },
+      "Tracks": [
+        {
+          "Index": 0,
+          "Name": "Mpeg2",
+          "Type": "Video",
+          "Resolution": "1920x1080",
+          "AspectRatio": "16:9"
+        },
+        {
+          "Index": 1,
+          "Name": "Linear PCM",
+          "Type": "Audio",
+          "AudioType": "Stereo",
+          "LanguageCode": "eng",
+          "Language": "English"
+        }
+      ]
+    }
+  ]
+}

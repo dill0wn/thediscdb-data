@@ -1,0 +1,20 @@
+Name: Johnny Mnemonic
+Type: MainMovie
+Year: 1995
+Source file name: 00001.mpls
+Duration: 1:36:42
+Chapters count: 16
+Size: 19.5 GB
+Segment count: 1
+Segment map: 4
+File name: Johnny Mnemonic_t00.mkv
+
+
+Name: Johnny Mnemonic - Trailer
+Source file name: 00014.m2ts
+Duration: 0:02:19
+Size: 338.6 MB
+Segment count: 1
+Segment map: 14
+Type: Trailer
+File name: Johnny Mnemonic_t07.mkv
