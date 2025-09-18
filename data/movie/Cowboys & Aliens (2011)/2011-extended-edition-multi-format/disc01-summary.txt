@@ -1,0 +1,513 @@
+Name: Cowboys & Aliens
+Type: MainMovie
+Year: 2011
+File name: Cowboys & Aliens (2011) [1080p].mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00020.mpls
+Duration: 0:01:37
+Chapters count: 2
+Size: 166.9 MB
+Segment count: 2
+Segment map: 50199,50200
+File name: Cowboys and Aliens_t00.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00306.mpls
+Duration: 0:40:12
+Chapters count: 5
+Size: 3.9 GB
+Segment count: 5
+Segment map: 307,308,309,310,311
+File name: Cowboys and Aliens_t01.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 01207.mpls
+Duration: 0:03:29
+Chapters count: 4
+Size: 280.9 MB
+Segment count: 4
+Segment map: 50349,50350,50352,50353
+File name: Cowboys and Aliens_t02.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00800.mpls
+Duration: 1:58:15
+Chapters count: 20
+Size: 23.7 GB
+Segment count: 24
+Segment map: 50285,50286,50287,50288,50289,50290,50291,50292,50293,50294,50295,50296,50297,50298,50356,50357,50301,50302,50303,50304,50305,50306,50307,50308
+File name: Cowboys and Aliens_t03.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00801.mpls
+Duration: 2:15:13
+Chapters count: 20
+Size: 27.2 GB
+Segment count: 24
+Segment map: 50285,50309,50287,50310,50289,50311,50291,50312,50293,50313,50295,50314,50297,50315,50356,50355,50301,50317,50303,50318,50305,50319,50307,50320
+File name: Cowboys and Aliens_t04.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00084.m2ts
+Duration: 0:00:59
+Size: 130.2 MB
+Segment count: 1
+Segment map: 84
+File name: Cowboys and Aliens_t05.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00085.m2ts
+Duration: 0:00:59
+Size: 130.2 MB
+Segment count: 1
+Segment map: 85
+File name: Cowboys and Aliens_t06.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00078.m2ts
+Duration: 0:00:59
+Size: 130.2 MB
+Segment count: 1
+Segment map: 78
+File name: Cowboys and Aliens_t07.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50199.m2ts
+Duration: 0:00:53
+Size: 90.8 MB
+Segment count: 1
+Segment map: 50199
+File name: Cowboys and Aliens_t08.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50200.m2ts
+Duration: 0:00:44
+Size: 76.1 MB
+Segment count: 1
+Segment map: 50200
+File name: Cowboys and Aliens_t09.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00300.m2ts
+Duration: 0:14:50
+Size: 488.2 MB
+Segment count: 1
+Segment map: 300
+File name: Cowboys and Aliens_t10.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50277.m2ts
+Duration: 0:01:10
+Size: 111.3 MB
+Segment count: 1
+Segment map: 50277
+File name: Cowboys and Aliens_t11.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50278.m2ts
+Duration: 0:01:12
+Size: 102.3 MB
+Segment count: 1
+Segment map: 50278
+File name: Cowboys and Aliens_t12.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50283.m2ts
+Duration: 0:01:33
+Size: 147.2 MB
+Segment count: 1
+Segment map: 50283
+File name: Cowboys and Aliens_t13.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50284.m2ts
+Duration: 0:00:37
+Size: 78.1 MB
+Segment count: 1
+Segment map: 50284
+File name: Cowboys and Aliens_t14.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50285.m2ts
+Duration: 0:04:36
+Size: 925.5 MB
+Segment count: 1
+Segment map: 50285
+File name: Cowboys and Aliens_t15.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50286.m2ts
+Duration: 0:10:00
+Size: 1.9 GB
+Segment count: 1
+Segment map: 50286
+File name: Cowboys and Aliens_t16.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50287.m2ts
+Duration: 0:01:56
+Size: 398.5 MB
+Segment count: 1
+Segment map: 50287
+File name: Cowboys and Aliens_t17.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50288.m2ts
+Duration: 0:03:49
+Size: 770.0 MB
+Segment count: 1
+Segment map: 50288
+File name: Cowboys and Aliens_t18.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50289.m2ts
+Duration: 0:03:27
+Size: 717.1 MB
+Segment count: 1
+Segment map: 50289
+File name: Cowboys and Aliens_t19.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50290.m2ts
+Duration: 0:02:04
+Size: 399.5 MB
+Segment count: 1
+Segment map: 50290
+File name: Cowboys and Aliens_t20.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50291.m2ts
+Duration: 0:03:27
+Size: 711.5 MB
+Segment count: 1
+Segment map: 50291
+File name: Cowboys and Aliens_t21.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50292.m2ts
+Duration: 0:02:28
+Size: 492.7 MB
+Segment count: 1
+Segment map: 50292
+File name: Cowboys and Aliens_t22.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50293.m2ts
+Duration: 0:05:08
+Size: 1.0 GB
+Segment count: 1
+Segment map: 50293
+File name: Cowboys and Aliens_t23.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50294.m2ts
+Duration: 0:09:57
+Size: 2.1 GB
+Segment count: 1
+Segment map: 50294
+File name: Cowboys and Aliens_t24.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50295.m2ts
+Duration: 0:02:18
+Size: 467.4 MB
+Segment count: 1
+Segment map: 50295
+File name: Cowboys and Aliens_t25.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50296.m2ts
+Duration: 0:06:08
+Size: 1.2 GB
+Segment count: 1
+Segment map: 50296
+File name: Cowboys and Aliens_t26.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50297.m2ts
+Duration: 0:02:05
+Size: 401.9 MB
+Segment count: 1
+Segment map: 50297
+File name: Cowboys and Aliens_t27.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50298.m2ts
+Duration: 0:01:58
+Size: 379.8 MB
+Segment count: 1
+Segment map: 50298
+File name: Cowboys and Aliens_t28.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50301.m2ts
+Duration: 0:01:17
+Size: 248.4 MB
+Segment count: 1
+Segment map: 50301
+File name: Cowboys and Aliens_t29.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50302.m2ts
+Duration: 0:07:54
+Size: 1.5 GB
+Segment count: 1
+Segment map: 50302
+File name: Cowboys and Aliens_t30.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50303.m2ts
+Duration: 0:02:45
+Size: 542.3 MB
+Segment count: 1
+Segment map: 50303
+File name: Cowboys and Aliens_t31.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50304.m2ts
+Duration: 0:03:45
+Size: 827.4 MB
+Segment count: 1
+Segment map: 50304
+File name: Cowboys and Aliens_t32.mkv
+Title information
+Name: Cowboys and Aliens (English)
+Source file name: 50305.m2ts
+Duration: 0:10:57
+Size: 2.2 GB
+Segment count: 1
+Segment map: 50305
+File name: Cowboys and Aliens_t33.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50306.m2ts
+Duration: 0:02:08
+Size: 450.2 MB
+Segment count: 1
+Segment map: 50306
+File name: Cowboys and Aliens_t34.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50307.m2ts
+Duration: 0:06:10
+Size: 1.0 GB
+Segment count: 1
+Segment map: 50307
+File name: Cowboys and Aliens_t35.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50309.m2ts
+Duration: 0:13:04
+Size: 2.5 GB
+Segment count: 1
+Segment map: 50309
+File name: Cowboys and Aliens_t36.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50310.m2ts
+Duration: 0:04:16
+Size: 860.7 MB
+Segment count: 1
+Segment map: 50310
+File name: Cowboys and Aliens_t37.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50311.m2ts
+Duration: 0:02:36
+Size: 502.7 MB
+Segment count: 1
+Segment map: 50311
+File name: Cowboys and Aliens_t38.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50312.m2ts
+Duration: 0:02:39
+Size: 534.5 MB
+Segment count: 1
+Segment map: 50312
+File name: Cowboys and Aliens_t39.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50313.m2ts
+Duration: 0:15:04
+Size: 3.1 GB
+Segment count: 1
+Segment map: 50313
+File name: Cowboys and Aliens_t40.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50314.m2ts
+Duration: 0:06:36
+Size: 1.3 GB
+Segment count: 1
+Segment map: 50314
+File name: Cowboys and Aliens_t41.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50315.m2ts
+Duration: 0:02:30
+Size: 489.1 MB
+Segment count: 1
+Segment map: 50315
+File name: Cowboys and Aliens_t42.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50317.m2ts
+Duration: 0:12:34
+Size: 2.6 GB
+Segment count: 1
+Segment map: 50317
+File name: Cowboys and Aliens_t43.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50318.m2ts
+Duration: 0:03:45
+Size: 806.6 MB
+Segment count: 1
+Segment map: 50318
+File name: Cowboys and Aliens_t44.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50319.m2ts
+Duration: 0:03:13
+Size: 684.0 MB
+Segment count: 1
+Segment map: 50319
+File name: Cowboys and Aliens_t45.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00301.m2ts
+Duration: 0:19:01
+Size: 624.4 MB
+Segment count: 1
+Segment map: 301
+File name: Cowboys and Aliens_t46.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00302.m2ts
+Duration: 0:10:48
+Size: 356.3 MB
+Segment count: 1
+Segment map: 302
+File name: Cowboys and Aliens_t47.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00303.m2ts
+Duration: 0:14:19
+Size: 470.5 MB
+Segment count: 1
+Segment map: 303
+File name: Cowboys and Aliens_t48.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00304.m2ts
+Duration: 0:06:44
+Size: 221.8 MB
+Segment count: 1
+Segment map: 304
+File name: Cowboys and Aliens_t49.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00305.m2ts
+Duration: 0:14:20
+Size: 471.4 MB
+Segment count: 1
+Segment map: 305
+File name: Cowboys and Aliens_t50.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00307.m2ts
+Duration: 0:05:29
+Size: 548.9 MB
+Segment count: 1
+Segment map: 307
+File name: Cowboys and Aliens_t51.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00308.m2ts
+Duration: 0:08:50
+Size: 886.5 MB
+Segment count: 1
+Segment map: 308
+File name: Cowboys and Aliens_t52.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00309.m2ts
+Duration: 0:08:55
+Size: 895.7 MB
+Segment count: 1
+Segment map: 309
+File name: Cowboys and Aliens_t53.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00310.m2ts
+Duration: 0:10:21
+Size: 1.0 GB
+Segment count: 1
+Segment map: 310
+File name: Cowboys and Aliens_t54.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00311.m2ts
+Duration: 0:06:35
+Size: 662.3 MB
+Segment count: 1
+Segment map: 311
+File name: Cowboys and Aliens_t55.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50349.m2ts
+Duration: 0:01:02
+Size: 83.1 MB
+Segment count: 1
+Segment map: 50349
+File name: Cowboys and Aliens_t56.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 00318.m2ts
+Duration: 0:01:02
+Size: 166.7 MB
+Segment count: 1
+Segment map: 318
+File name: Cowboys and Aliens_t58.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50352.m2ts
+Duration: 0:00:32
+Size: 43.4 MB
+Segment count: 1
+Segment map: 50352
+File name: Cowboys and Aliens_t59.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50353.m2ts
+Duration: 0:01:23
+Size: 111.3 MB
+Segment count: 1
+Segment map: 50353
+File name: Cowboys and Aliens_t60.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50355.m2ts
+Duration: 0:03:05
+Size: 599.5 MB
+Segment count: 1
+Segment map: 50355
+File name: Cowboys and Aliens_t61.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50356.m2ts
+Duration: 0:21:27
+Size: 4.4 GB
+Segment count: 1
+Segment map: 50356
+File name: Cowboys and Aliens_t62.mkv
+
+Name: Cowboys and Aliens (English)
+Source file name: 50357.m2ts
+Duration: 0:02:13
+Size: 432.0 MB
+Segment count: 1
+Segment map: 50357
+File name: Cowboys and Aliens_t63.mkv
