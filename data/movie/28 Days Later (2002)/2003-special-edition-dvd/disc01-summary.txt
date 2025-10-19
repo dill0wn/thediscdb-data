@@ -1,0 +1,94 @@
+Name: 28 Days Later
+Type: MainMovie
+Year: 2002
+File name: 28 Days Later (2002) [720p].mkv
+
+Comment: B1
+Source title ID: 01
+Duration: 1:52:45
+Chapters count: 33
+Size: 5.0 GB
+Segment count: 16
+Segment map: 1,2-3,4-6,7-9,10-11,12-14,15-17,18-19,20-22,23-24,25-26,27-28,29,30-32,33,34
+File name: B1_t00.mkv
+
+Comment: D3
+Source title ID: 02
+Duration: 0:01:47
+Chapters count: 1
+Size: 75.8 MB
+Segment count: 1
+Segment map: 1
+File name: D3_t01.mkv
+
+Comment: F2
+Source title ID: 03
+Duration: 0:04:13
+Chapters count: 2
+Size: 22.0 MB
+Segment count: 2
+Segment map: 1,2
+File name: F2_t02.mkv
+
+Comment: F1
+Source title ID: 04
+Duration: 0:18:10
+Chapters count: 2
+Size: 43.3 MB
+Segment count: 2
+Segment map: 1,2
+File name: F1_t03.mkv
+
+Comment: G1
+Source title ID: 05
+Duration: 0:01:30
+Chapters count: 1
+Size: 74.6 MB
+Segment count: 1
+Segment map: 1
+File name: G1_t04.mkv
+
+Comment: G4
+Source title ID: 05
+Duration: 0:06:22
+Chapters count: 1
+Size: 434.0 MB
+Segment count: 1
+Segment map: 1
+File name: G4_t05.mkv
+
+Comment: E1
+Source title ID: 05
+Duration: 0:11:51
+Chapters count: 1
+Size: 386.9 MB
+Segment count: 1
+Segment map: 1
+File name: E1_t06.mkv
+
+Comment: C3
+Source title ID: 05
+Duration: 0:24:19
+Chapters count: 1
+Size: 939.8 MB
+Segment count: 3
+Segment map: 1,2,3
+File name: C3_t07.mkv
+
+Comment: G3
+Source title ID: 05
+Duration: 0:01:30
+Chapters count: 1
+Size: 40.6 MB
+Segment count: 1
+Segment map: 1
+File name: G3_t08.mkv
+
+Comment: G2
+Source title ID: 06
+Duration: 0:02:00
+Chapters count: 1
+Size: 111.2 MB
+Segment count: 1
+Segment map: 1
+File name: G2_t09.mkv
